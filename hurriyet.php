@@ -1,7 +1,7 @@
 <?php 
 
-include 'admin/fonksiyon.php';
-include 'admin/baglan.php';
+include 'fonksiyon.php';
+include 'baglan.php';
 
 
 
