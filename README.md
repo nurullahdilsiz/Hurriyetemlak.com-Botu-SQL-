@@ -1,7 +1,7 @@
-# Hurriyetemlak.com-Botu-SQL- PHP
-merhaba, hurriyetemlak.com için yapmış olduğum botu sizlerle paylaşıyorum kullanımı oldukça basit olan bir bot
+# Hurriyetemlak.com-Bot-SQL- PHP
 
-hurriyet.php de bulunan  linki çekeceğiniz kategorideki get id deki rakamı silerek $yenilink değişkenine yapıştırınız ve id de bulunan sayfa rakamını ise for döngüsü içerisindeki $i ye tanımlayın ve bırakın kendisi sizin yerinize kategorideki bütün linkleri sql e eklesin
+Hello, I'm sharing the bot I have made for hurriyetemlak.com is a bot that is quite simple to use
 
+hurriyet.php link in the category you get to delete the number in the id id and paste the $ yenink variable and the page number in the id for $ in the for loop and let him add all the links to the category itself sql
 
-daha sonra çekilen linkler için botu revize ederek linkler içerisindeki verileri de çekebilirsiniz.
+then you can revise the bot for the drawn links and withdraw the data in the links.
